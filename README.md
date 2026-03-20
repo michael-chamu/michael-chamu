@@ -28,6 +28,3 @@ I am currently building my technical skills through coursework and hands-on proj
 
 ### 📫 Contact
 - Email: michaelchamubusiness@gmail.com
-
-- 🔭  😄 Pronouns: ...
-- ⚡ Fun fact: ...
