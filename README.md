@@ -1,16 +1,33 @@
-## Hi there 👋
+### Hi, I'm Michael 👋
 
-<!--
-**michael-chamu/michael-chamu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science & IT student at Owensboro Community & Technical College  
+💻 Focused on IT Support, Networking, and Cybersecurity  
+📍 Based in Indiana / Kentucky  
 
-Here are some ideas to get you started:
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+### 🚀 About Me
+I am currently building my technical skills through coursework and hands-on projects in Python, networking, and system configuration. I enjoy troubleshooting systems and solving real-world technical problems.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### 🛠️ Skills
+- IT Support & Troubleshooting  
+- Networking Fundamentals  
+- Computer Hardware  
+- Python Programming  
+- HTML & CSS  
+- Microsoft Excel, Word, PowerPoint  
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### 📂 Projects
+(Currently building and polishing projects)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### 📫 Contact
+- Email: michaelchamubusiness@gmail.com
+
+- 🔭  😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
